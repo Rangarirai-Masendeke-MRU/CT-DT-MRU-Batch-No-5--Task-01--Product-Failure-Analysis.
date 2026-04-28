@@ -20,4 +20,4 @@ Deliverables:
 Excel Sheet: A comprehensive dataset categorizing different failure modes and their physical causes.
 
 File Link
-[View the Product Failure Analysis Table](./Machine_Failure_Analysis.xlsx)
+[View the Product Failure Analysis Table](Machine_Failure_Analysis.xlsx..xlsx)
