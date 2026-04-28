@@ -21,3 +21,4 @@ Excel Sheet: A comprehensive dataset categorizing different failure modes and th
 
 File Link
 View the Product Failure Analysis Table:
+Machine_Failure_Analysis.xlsx..xlsx
